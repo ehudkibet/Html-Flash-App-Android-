@@ -1,0 +1,13 @@
+body{
+    background-color:grey;
+}
+h1{
+    color:black;
+}
+p{
+    color :black;
+    font-style: italic;
+    font-size:20px
+    padding-left: 10px;
+}
+img
